@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1553868757 source:d:\sebastian eliano\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecatp.h"
+	"funcionestp.c"
+
+1553868803 d:\sebastian eliano\trabajopractico1\bibliotecatp.h
+	"funcionestp.c"
+
+1553867071 d:\sebastian eliano\trabajopractico1\funcionestp.c
+	"bibliotecatp.h"
+
+1554422672 source:d:\programacion facultad\programacion i\tp_laboratorio_1\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecatp.h"
+
+1554328956 d:\programacion facultad\programacion i\tp_laboratorio_1\trabajopractico1\bibliotecatp.h
+
+1554080458 d:\programacion facultad\programacion i\tp_laboratorio_1\trabajopractico1\funcionestp.c
+
+1554422347 source:d:\programacion facultad\programacion i\tp_laboratorio_1\trabajopractico1\funcionestp.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecatp.h"
+
+1554216450 source:d:\programacion i facultad\tp_laboratorio_1\trabajopractico1\funcionestp.c
+	<stdio.h>
+	<stdlib.h>
+
+1554214720 source:d:\programacion i facultad\tp_laboratorio_1\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"bibliotecatp.h"
+
+1554214816 d:\programacion i facultad\tp_laboratorio_1\trabajopractico1\bibliotecatp.h
+
+1567719802 source:c:\users\sebastian eliano\desktop\tp_laboratorio_1-master\tp_laboratorio_1-master\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecatp.h"
+
+1567718730 c:\users\sebastian eliano\desktop\tp_laboratorio_1-master\tp_laboratorio_1-master\trabajopractico1\bibliotecatp.h
+
+1567719827 source:c:\users\sebastian eliano\desktop\tp_laboratorio_1-master\tp_laboratorio_1-master\trabajopractico1\funcionestp.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecatp.h"
+
